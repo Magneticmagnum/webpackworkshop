@@ -109,17 +109,3 @@ input {
 .addBtn:hover {
     background-color: #bbb;
 }
-
-<style>
- .addBtn {
-     padding: 10px;
-     width: 25%;
-     background: #d9d9d9;
-     color: #555;
-     float: left;
-     text-align: center;
-     font-size: 16px;
-     cursor: pointer;
-     trasition: 0.3s;
-    }
- </style>
